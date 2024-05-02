@@ -1,0 +1,8 @@
+linters-settings:
+  enable:
+    - golint
+    - govet
+    - staticcheck
+    - errchack
+run:
+  issues-exit-code: 1
