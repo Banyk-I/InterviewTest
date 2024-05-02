@@ -1,0 +1,10 @@
+mode: set
+InterviewTest/internal/middlewhare/middlewhare.go:15.79,16.76 1 1
+InterviewTest/internal/middlewhare/middlewhare.go:16.76,24.50 4 1
+InterviewTest/internal/middlewhare/middlewhare.go:24.50,28.4 1 1
+InterviewTest/internal/middlewhare/middlewhare.go:30.3,31.39 2 1
+InterviewTest/internal/middlewhare/middlewhare.go:31.39,34.4 1 1
+InterviewTest/internal/middlewhare/middlewhare.go:35.3,37.37 2 1
+InterviewTest/internal/middlewhare/middlewhare.go:41.59,43.56 1 0
+InterviewTest/internal/middlewhare/middlewhare.go:43.56,46.3 2 0
+InterviewTest/internal/middlewhare/middlewhare.go:50.71,53.2 1 1
